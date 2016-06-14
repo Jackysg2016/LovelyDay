@@ -13,11 +13,9 @@
 ![image](https://github.com/EliseTonight/LovelyDay/blob/master/图片/08.png)
 
 目前在更新序列中的内容：
-1.定位功能
-2.搜索
-3.个人界面的点击cell的掉落出现一页纸的动画效果
+1.个人界面的点击cell的掉落出现一页纸的动画效果
 etc...
-
+搜索部分，可以尝试输入M来进行搜索
 如有任何问题或建议等，请联系我，谢谢
 951150127@qq.com
 
